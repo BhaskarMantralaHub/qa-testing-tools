@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=gsxalEsEFNo
 ```
 
 ```
-KOBITON
+KOBITON (Same as Saucelabs and LambdaTest)
 https://kobiton.com/
 
 https://www.youtube.com/watch?v=V7_XiOHpyks
